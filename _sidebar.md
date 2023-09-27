@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
 
-* [HOME](./)
+* [HOME](/)
 
-* [Plan Recommendation](./Plan_Recommendation/index)
+* [Plan Recommendation](/Plan_Recommendation/index)
