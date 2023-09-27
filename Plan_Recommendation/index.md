@@ -1,7 +1,7 @@
 
 # Plan Recommendation API
 
-
+## Request 
 ```
 curl --location 'https://network.studioai.dev/v1/plan-recommendation?insurerId=123' \
 --header 'Content-Type: application/json' \
@@ -16,7 +16,7 @@ curl --location 'https://network.studioai.dev/v1/plan-recommendation?insurerId=1
 }
 ```
 
-**Response**
+## Response
 
 ```
 [
