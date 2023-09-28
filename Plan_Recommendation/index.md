@@ -18,11 +18,11 @@ curl --location 'https://network.studioai.dev/v1/plan-recommendation?insurerId=1
 
 ## Response
 
-```
+```json
 [
   {
-    "name": "Blue PPO Plan A",
-    "planId": "33380IN0030022",
+    "name": "Blue PPO Plan",
+    "planId": "33380IN0030027",
     "monthlyPrice": "$250",
     "recommendedPercent": 45,
     "recommended": true,
@@ -67,8 +67,8 @@ curl --location 'https://network.studioai.dev/v1/plan-recommendation?insurerId=1
     ]
   },
   {
-    "name": "Blue PPO Plan B",
-    "planId": "33380IN0050001",
+    "name": "Bronze Standardized",
+    "planId": "33380IN0030090",
     "monthlyPrice": "$269",
     "recommendedPercent": 55,
     "recommended": true,
@@ -113,8 +113,8 @@ curl --location 'https://network.studioai.dev/v1/plan-recommendation?insurerId=1
     ]
   },
   {
-    "name": "Blue PPO Plan C",
-    "planId": "33380IN0030016",
+    "name": "Silver HSA 3000 - 1 Plus",
+    "planId": "33380IN0050013",
     "monthlyPrice": "$296",
     "recommendedPercent": 75,
     "recommended": true,
@@ -159,8 +159,8 @@ curl --location 'https://network.studioai.dev/v1/plan-recommendation?insurerId=1
     ]
   },
   {
-    "name": "Blue PPO Plan D",
-    "planId": "33380IN0030027",
+    "name": "Silver H.S.A. 2700 Basic Plus",
+    "planId": "33380IN0050010",
     "monthlyPrice": "$329",
     "recommendedPercent": 85,
     "recommended": false,
